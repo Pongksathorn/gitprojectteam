@@ -4,5 +4,6 @@ public class CalculatorDriver{
           c1.add(9,7);
           
         System.out.println(c1.add(9,7));
+        System.out.println(c1.multiply(9,7));
 }
 }
